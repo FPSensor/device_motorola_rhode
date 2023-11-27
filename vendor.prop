@@ -17,7 +17,7 @@ ro.vendor.perf.scroll_opt=true
 ro.apk_verity.mode=2
 
 # Radio
-ro.vendor.radio.imei.sv=12
+ro.vendor.radio.imei.sv=21
 
 # SoC
 ro.soc.manufacturer=QTI
